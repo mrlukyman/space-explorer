@@ -15,7 +15,6 @@
 		B73AB36A2A0553B900E40F48 /* ChemicalElementsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73AB3692A0553B900E40F48 /* ChemicalElementsTests.swift */; };
 		B73AB3742A0553B900E40F48 /* ChemicalElementsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73AB3732A0553B900E40F48 /* ChemicalElementsUITests.swift */; };
 		B73AB3762A0553B900E40F48 /* ChemicalElementsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73AB3752A0553B900E40F48 /* ChemicalElementsUITestsLaunchTests.swift */; };
-		B74084CB2A0593CA008E8F4A /* Animated_Moon.usdz in Resources */ = {isa = PBXBuildFile; fileRef = B74084CA2A0593CA008E8F4A /* Animated_Moon.usdz */; };
 		B74EFC902A057EE300F0E770 /* CosmonautSuit_en.reality in Resources */ = {isa = PBXBuildFile; fileRef = B74EFC8F2A057EE300F0E770 /* CosmonautSuit_en.reality */; };
 		B74EFC922A05821400F0E770 /* LunarRover_English.reality in Resources */ = {isa = PBXBuildFile; fileRef = B74EFC912A05821400F0E770 /* LunarRover_English.reality */; };
 		B74EFC942A05828E00F0E770 /* hab_en.reality in Resources */ = {isa = PBXBuildFile; fileRef = B74EFC932A05828D00F0E770 /* hab_en.reality */; };
@@ -50,7 +49,6 @@
 		B73AB36F2A0553B900E40F48 /* SpaceExplorerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpaceExplorerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B73AB3732A0553B900E40F48 /* ChemicalElementsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChemicalElementsUITests.swift; sourceTree = "<group>"; };
 		B73AB3752A0553B900E40F48 /* ChemicalElementsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChemicalElementsUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		B74084CA2A0593CA008E8F4A /* Animated_Moon.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = Animated_Moon.usdz; sourceTree = "<group>"; };
 		B74EFC8F2A057EE300F0E770 /* CosmonautSuit_en.reality */ = {isa = PBXFileReference; lastKnownFileType = file; path = CosmonautSuit_en.reality; sourceTree = "<group>"; };
 		B74EFC912A05821400F0E770 /* LunarRover_English.reality */ = {isa = PBXFileReference; lastKnownFileType = file; path = LunarRover_English.reality; sourceTree = "<group>"; };
 		B74EFC932A05828D00F0E770 /* hab_en.reality */ = {isa = PBXFileReference; lastKnownFileType = file; path = hab_en.reality; sourceTree = "<group>"; };
@@ -142,7 +140,6 @@
 		B73AB3822A055B4A00E40F48 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				B74084CA2A0593CA008E8F4A /* Animated_Moon.usdz */,
 				B74EFC932A05828D00F0E770 /* hab_en.reality */,
 				B74EFC912A05821400F0E770 /* LunarRover_English.reality */,
 				B74EFC8F2A057EE300F0E770 /* CosmonautSuit_en.reality */,
@@ -259,7 +256,6 @@
 				B73AB3602A0553B800E40F48 /* Preview Assets.xcassets in Resources */,
 				B74EFC942A05828E00F0E770 /* hab_en.reality in Resources */,
 				B73AB35D2A0553B800E40F48 /* Assets.xcassets in Resources */,
-				B74084CB2A0593CA008E8F4A /* Animated_Moon.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
